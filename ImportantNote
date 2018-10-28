@@ -2,3 +2,6 @@ Please do NOT use BankAR_Enhancing_Security!!
 
 Instead download the whole Unity Project file which is zipped (BankAR_Enhancing_Security.zip)
 
+In order to use the AR application in Unity you need to add some credentials/url streams:
+a) A Vuforia Developer Key
+b) A Partcle URL which contains the IoT Token.
