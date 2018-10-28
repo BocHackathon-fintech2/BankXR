@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\bin\Debug\UniversalERPConnectorWS.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\bin\Debug\UniversalERPConnectorWS.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\bin\Debug\UniversalERPConnectorWS.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\obj\Debug\UniversalERPConnectorWS.ProjectInstaller.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\obj\Debug\UniversalERPConnectorWS.Service1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\obj\Debug\UniversalERPConnectorWS.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\obj\Debug\UniversalERPConnectorWS.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\BOC\UniversalERPConnectorWS\UniversalERPConnectorWS\obj\Debug\UniversalERPConnectorWS.pdb
