@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Retrieve_Subscription" size="50.000000 28.125000" />
+    <ImageTarget name="Create_Subscription" size="50.000000 28.125000" />
+    <ImageTarget name="Create_Token" size="50.000000 28.125000" />
+    <ImageTarget name="helper" size="50.000000 28.125000" />
+  </Tracking>
+</QCARConfig>
